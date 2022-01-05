@@ -1,0 +1,3 @@
+https://github.com/ojaap/Sophosbeat
+
+https://github.com/sophos/Sophos-Central-SIEM-Integration
